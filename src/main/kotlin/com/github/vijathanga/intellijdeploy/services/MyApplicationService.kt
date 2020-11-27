@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vijathanga.intellijdeploy.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vijathanga.intellijdeploy.MyBundle
 
 class MyApplicationService {
 
